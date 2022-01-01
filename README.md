@@ -21,3 +21,5 @@ O **Scrum** consiste em um método que trabalha com **ciclos curtos de desenvolv
 Deste modo, o _feedback_ a respeito do resultado é obtido rapidamente, o que garante a qualidade do produto desenvolvido e a satisfação do cliente. 
 
 As equipes são auto-organizáveis e não necessitam de líderes indicando **'O que fazer'** e **'Como fazer'**.
+
+![Scrum, process cicle](/assets/images/scrum.gif)
