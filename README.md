@@ -6,7 +6,8 @@ O **Manifesto Ágil**, _criado em 2001_, descreve a essência de um conjunto de 
 
 A seguir encontra-se o **Manifesto Ágil** com os seus princípios.
 
-    “Estamos descobrindo maneiras melhores de desenvolver software fazendo-o nós mesmos e ajudando outros a fazê-lo. Através desse trabalho, passamos a valorizar:
+    “Estamos descobrindo maneiras melhores de desenvolver software fazendo-o nós mesmos e ajudando outros a fazê-lo. 
+    Através desse trabalho, passamos a valorizar:
          1. Indivíduos e interação entre eles mais que processos e ferramentas;
          2. Software em funcionamento mais que documentação abrangente;
          3. Colaboração com o cliente mais que negociação de contratos;
